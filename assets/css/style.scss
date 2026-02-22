@@ -1,0 +1,8 @@
+---
+---
+@import "{{ site.theme }}";
+
+/* This makes the main content area wider */
+.inner {
+  max-width: 1200px !important;
+}
