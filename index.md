@@ -51,7 +51,7 @@ Before executing the enhancements detailed in this portfolio, I conducted a comp
 **View Source Code:** [GitHub Repository](https://github.com/Tiabkcilc/Software-Design-and-Engineering-Interactive-3D-Scene)
 
 <figure>
-  <img src="3d-scene.jpg" width="600" alt="3D Still Life Scene">
+  <img src="still-life-scene.jpg" width="600" alt="3D Still Life Scene">
   <figcaption>Screenshot of 3D scene.</figcaption>
 </figure>
 
