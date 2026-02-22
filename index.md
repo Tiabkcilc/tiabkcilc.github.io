@@ -42,7 +42,7 @@ Together, these projects reflect my technical versatility and my readiness to co
 
 ![Screenshot of 3D Scene](link_to_your_image.jpg) *(Note: Upload a screenshot of your scene to your repo and link it here)*
 
-### Milestone Two: Software Design and Engineering Narrative
+###Software Design and Engineering Narrative
 
 **Artifact Description**
 The artifact selected for the Software Design and Engineering category is a 3D Still-Life Scene originally created for CS 330: Computational Graphics and Visualization. Written in C++ using the OpenGL library (utilizing GLEW and GLFW), the application renders a complex 3D scene consisting of a table, a bowl, and various fruits. The original iteration of the software was functionally sound but architecturally fragile; it relied on a monolithic, procedural design where all rendering logic was hardcoded directly into the main render loop.
