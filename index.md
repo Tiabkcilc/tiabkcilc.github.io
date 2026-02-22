@@ -50,8 +50,10 @@ Before executing the enhancements detailed in this portfolio, I conducted a comp
 ### 1. Software Design and Engineering: Interactive 3D Scene
 **View Source Code:** [GitHub Repository](https://github.com/Tiabkcilc/Software-Design-and-Engineering-Interactive-3D-Scene)
 
-##Screenshot of 3D Scene##
-<img src="3d-scene.jpg" width="600">
+<figure>
+  <img src="3d-scene.jpg" width="600" alt="3D Still Life Scene">
+  <figcaption>Screenshot of 3D scene.</figcaption>
+</figure>
 
 ### Software Design and Engineering Narrative
 
