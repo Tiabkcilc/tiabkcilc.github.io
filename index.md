@@ -42,17 +42,20 @@ Together, these projects reflect my technical versatility and my readiness to co
 
 ![Screenshot of 3D Scene](link_to_your_image.jpg) *(Note: Upload a screenshot of your scene to your repo and link it here)*
 
-**Artifact Description**
-[PASTE THE "Artifact Description" PARAGRAPH FROM YOUR SOFTWARE DESIGN NARRATIVE]
+Milestone Two: Software Design and Engineering Narrative
+Artifact Description The artifact selected for the Software Design and Engineering category is a 3D Still-Life Scene originally created for CS 330: Computational Graphics and Visualization. Written in C++ using the OpenGL library (utilizing GLEW and GLFW), the application renders a complex 3D scene consisting of a table, a bowl, and various fruits. The original iteration of the software was functionally sound but architecturally fragile; it relied on a monolithic, procedural design where all rendering logic was hardcoded directly into the main render loop.
+Justification for Inclusion I selected this artifact because it presented a prime opportunity to demonstrate Refactoring and Software Architecture skills. In the industry, developers rarely write code from scratch; they more often inherit legacy codebases that need to be modernized.
+Skills Showcased: By refactoring this artifact, I demonstrated proficiency in Object-Oriented Programming (OOP), specifically polymorphism, encapsulation, and inheritance. I also showcased modern C++ memory management by migrating from raw pointers to smart pointers (std::shared_ptr), ensuring resource safety.
+Improvements: The most significant improvement was the transition from a procedural script to a modular class hierarchy. I created an abstract Shape base class with derived implementations for specific meshes (MeshCube, MeshSphere, etc.). The scene manager was updated to hold a dynamic vector of these shape objects, allowing the scene to be scalable. If I want to add 100 apples now, I simply instantiate them and add them to the vector, rather than writing 100 blocks of rendering code.
+Course Outcomes Analysis With this enhancement, I successfully met the course outcome regarding "Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices."
+Evaluation: I evaluated the trade-offs between the original procedural approach (which was faster to write initially but impossible to scale) and the new OOP approach (which required more initial setup but offers long-term maintainability).
+Outcome Updates: My original plan focused heavily on just the visual aspect. However, during development, I expanded the scope to include User Interaction (Outcome 4: Innovative Techniques). I implemented an event listener that allows users to toggle the visual state of specific objects using keyboard inputs ('1', '2', '3'), transforming the artifact from a static image into an interactive application.
+Reflection on the Process Refactoring this code was a lesson in the complexity of dependency management and the "hidden costs" of software development.
+Challenges: The biggest challenge I faced was environmental configuration. Because the original project relied on external libraries linked via relative paths that no longer existed, I encountered significant "Linker Errors" and "File Not Found" exceptions. I had to investigate the directory structure to locate the missing ShapeMeshes and ShaderManager dependency files and manually relocate them to the source directory where the solution file was expecting them.
+Debugging: I also encountered a critical runtime error (Access Violation code -1073741819) caused by an uninitialized pointer in my new SceneManager constructor. This reinforced the importance of Defensive Programming, ensuring all objects are properly instantiated before usage.
+Key Takeaway: Through this process, I learned that clean code is not just about readability; it is about safety. By encapsulating the drawing logic inside the Shape classes, I prevented the main loop from accidentally corrupting the state of an individual object, significantly increasing the robustness of the application.
 
-**Justification for Inclusion**
-[PASTE THE "Justification for Inclusion" PARAGRAPH]
 
-**Course Outcomes Analysis**
-[PASTE THE "Course Outcomes Analysis" PARAGRAPH]
-
-**Reflection on the Process**
-[PASTE THE "Reflection on the Process" PARAGRAPH]
 
 ---
 
