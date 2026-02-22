@@ -37,6 +37,14 @@ Together, these projects reflect my technical versatility and my readiness to co
 
 ---
 
+## Code Review
+
+Before executing the enhancements detailed in this portfolio, I conducted a comprehensive code review of the original, unoptimized artifacts. In the video below, I analyze the legacy codebases to identify security vulnerabilities, architectural flaws, and performance bottlenecks. I also outline the strategic plan to refactor these projects across three key areas: Software Design, Algorithms, and Databases. This review demonstrates my ability to audit existing code, communicate technical debt to stakeholders, and architect professional-grade solutions.
+
+**[Watch my Comprehensive Code Review Here](insert_your_video_link_here)**
+
+---
+
 ## Portfolio Artifacts
 
 ### 1. Software Design and Engineering: Interactive 3D Scene
