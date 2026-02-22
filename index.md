@@ -1,5 +1,3 @@
-# Donovan Taylor
-**Computer Science Professional & Cybersecurity Specialist**
 [LinkedIn Profile](https://linkedin.com/in/donovan-taylor-4a3842354) | [GitHub Profile](https://github.com/Tiabkcilc) | dtaylor5269@gmail.com
 
 ---
