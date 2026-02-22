@@ -48,7 +48,7 @@ Before executing the enhancements detailed in this portfolio, I conducted a comp
 ## Portfolio Artifacts
 
 ### 1. Software Design and Engineering: Interactive 3D Scene
-**View Source Code:** [Insert Link to this specific GitHub Repository](https://github.com/Tiabkcilc/Software-Design-and-Engineering-Interactive-3D-Scene)
+**View Source Code:** [GitHub Repository](https://github.com/Tiabkcilc/Software-Design-and-Engineering-Interactive-3D-Scene)
 
 ![Screenshot of 3D Scene](link_to_your_image.jpg) *(Note: Upload a screenshot of your scene to your repo and link it here)*
 
