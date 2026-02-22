@@ -1,6 +1,6 @@
 # Donovan Taylor
 **Computer Science Professional & Cybersecurity Specialist**
-[LinkedIn Profile Link] | [GitHub Profile Link] | dtaylor5269@gmail.com
+[LinkedIn Profile Link] | [[GitHub Profile]](https://github.com/Tiabkcilc) | dtaylor5269@gmail.com
 
 ---
 
