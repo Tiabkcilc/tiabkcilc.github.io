@@ -81,7 +81,7 @@ Refactoring this code was a lesson in the complexity of dependency management an
 **View Source Code:** [GitHub Repository](https://github.com/Tiabkcilc/course-planner-bst)
 
 <figure>
-  <img src="course-planner.jpg" width="600" alt="Course Planner">
+  <img src="course-planner.jpg" width="700" alt="Course Planner">
   <figcaption>Screenshot of the Course Planner.</figcaption>
 </figure>
 
