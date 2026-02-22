@@ -114,7 +114,7 @@ Enhancing this artifact highlighted the precision required when working with mem
 **View Source Code:** [GitHub Repository](https://github.com/Tiabkcilc/Animal-Shelter-Database-SQLite)
 
 <figure>
-  <img src="animal-shelter.jpg" width="1000" alt="Animal Shelter Database">
+  <img src="animal-shelter.jpg" width="1500" alt="Animal Shelter Database">
   <figcaption>Screenshot of the Animal Shelter Database.</figcaption>
 </figure>
 
