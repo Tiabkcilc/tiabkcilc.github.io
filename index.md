@@ -81,7 +81,7 @@ Refactoring this code was a lesson in the complexity of dependency management an
 **View Source Code:** [GitHub Repository](https://github.com/Tiabkcilc/course-planner-bst)
 
 <figure>
-  <img src="course-planner.jpg" width="600" alt="3D Still Life Scene">
+  <img src="course-planner.jpg" width="600" alt="Course Planner">
   <figcaption>Screenshot of the Course Planner.</figcaption>
 </figure>
 
@@ -113,7 +113,10 @@ Enhancing this artifact highlighted the precision required when working with mem
 ### 3. Databases: Secure Animal Shelter Dashboard
 **View Source Code:** [GitHub Repository](https://github.com/Tiabkcilc/Animal-Shelter-Database-SQLite)
 
-![Screenshot of Database Schema or Dashboard](link_to_your_image.jpg) *(Note: A screenshot of the dashboard running or your SQLite table structure)*
+<figure>
+  <img src="animal-shelter.jpg" width="600" alt="Animal Shelter Database">
+  <figcaption>Screenshot of the Animal Shelter Database.</figcaption>
+</figure>
 
 ### Database Design and Security Narrative
 
