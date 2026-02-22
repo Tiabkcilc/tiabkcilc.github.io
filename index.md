@@ -78,7 +78,7 @@ Refactoring this code was a lesson in the complexity of dependency management an
 
 ---
 ### 2. Algorithms and Data Structures: Course Planner (BST)
-**View Source Code:** [Insert Link to this specific GitHub Repository]
+**View Source Code:** [GitHub Repository](https://github.com/Tiabkcilc/course-planner-bst)
 
 ![Screenshot of Terminal Output](link_to_your_image.jpg) *(Note: Take a screenshot of the console printing the sorted courses)*
 
