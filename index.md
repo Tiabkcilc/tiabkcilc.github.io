@@ -49,7 +49,9 @@ Before executing the enhancements detailed in this portfolio, I conducted a comp
 **View Source Code:** [GitHub Repository](https://github.com/Tiabkcilc/Software-Design-and-Engineering-Interactive-3D-Scene)
 
 <figure>
-  <img src="still-life-scene.jpg" width="600" alt="3D Still Life Scene">
+  <a href="still-life-scene.jpg" target="_blank">
+    <img src="still-life-scene.jpg" width="600" alt="3D Still Life Scene">
+  </a>
   <figcaption>Screenshot of 3D scene.</figcaption>
 </figure>
 
@@ -79,7 +81,9 @@ Refactoring this code was a lesson in the complexity of dependency management an
 **View Source Code:** [GitHub Repository](https://github.com/Tiabkcilc/course-planner-bst)
 
 <figure>
-  <img src="course-planner.jpg" width="700" alt="Course Planner">
+  <a href="course-planner.jpg" target="_blank">
+    <img src="course-planner.jpg" width="700" alt="Course Planner">
+  </a>
   <figcaption>Screenshot of the Course Planner.</figcaption>
 </figure>
 
@@ -112,7 +116,9 @@ Enhancing this artifact highlighted the precision required when working with mem
 **View Source Code:** [GitHub Repository](https://github.com/Tiabkcilc/Animal-Shelter-Database-SQLite)
 
 <figure>
-  <img src="animal-shelter.jpg" width="1500" alt="Animal Shelter Database">
+  <a href="animal-shelter.jpg" target="_blank">
+    <img src="animal-shelter.jpg" width="1000" alt="Animal Shelter Database">
+  </a>
   <figcaption>Screenshot of the Animal Shelter Database.</figcaption>
 </figure>
 
